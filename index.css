@@ -398,10 +398,6 @@
     width: 10cm;
     margin-left: 4%;
 }
-.coinfo{
-    border: 3px solid green;
-    height: 300px;
-}
 #bookbtn{
     background-color: #3FA7F0;
     color:  white;
@@ -434,7 +430,22 @@
     height: 1cm;
     width: 5cm;
     border-radius: 5px;
-    border: 1px;
-    
-    
+    border: 1px;  
+}
+.coinfo{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding-left: 1%;
+    background-color: rgb(250, 250, 250);
+}
+.coinfo h3{
+    margin-top: 50%;
+}
+.coinfo ul{
+    margin: 1%;
+    text-align: start;
+    list-style: none; 
+    padding-bottom: 100%;
+    justify-content: space-between;
 }
