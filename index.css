@@ -346,5 +346,17 @@
     justify-content: space-evenly;
 }
 .wds{
+    margin: 8%;
+    font-size: larger;
+    text-align: justify;
+}
+.wds h1{
+    margin-bottom: 5%;
+}
+.wds p{
+    font-size: 1rem;
+}
+.worldmap{
     margin: 10%;
+   
 }
