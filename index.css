@@ -207,3 +207,13 @@
     height: 60px;
     width: 100px;
 }
+.subscribe{
+    display: flex;
+    margin: 100px;
+    margin-left: 20%;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    height: 100px;
+    width: 1000px;
+    align-items: center;
+}
