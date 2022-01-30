@@ -216,4 +216,26 @@
     height: 100px;
     width: 1000px;
     align-items: center;
+    background: linear-gradient(90deg,#203F88 20%, #493888 30%, #BE4887 50%)
+    
+}
+.subscribe p{
+    color: white;
+    margin-left: 10%;
+    font-size: larger;
+    font-size: 1.5em;
+}
+#email{
+    height: 1.3cm;
+    width: 10cm;
+    margin-left: 100px;  
+    border-radius: 5px;  
+}
+#subs{
+    height: 1.3cm;
+    width: 3cm;
+    color: white;
+    background-color: #3FA7F0;
+    margin-left: -10px;
+    border-radius: 5px;
 }
