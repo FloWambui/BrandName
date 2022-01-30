@@ -9,4 +9,25 @@
     border: 3px solid red;
     background-image: url(pictures/hero-cover.3.png);
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    opacity: 0.9;
+    color: white;
+    font-size: large;    
+}
+.navbar{
+    display: flex;
+    margin: 20px;
+}
+.navbar h2{
+    justify-content: start;
+    margin-left: 200px;
+    font-weight: bold;
+}
+.navbar ul{
+    display:flex;
+    list-style: none;
+    margin-left: 100px;
+    justify-content: ;
 }
