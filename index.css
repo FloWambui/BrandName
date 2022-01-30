@@ -6,7 +6,7 @@
 }
 .landingpage{
     height: 100vh;
-    border: 3px solid red;
+    /* border: 3px solid red; */
     background-image: url(pictures/hero-cover.3.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -87,19 +87,17 @@
     width: 180px;
     height: 50px;
 }
-.values{
-    /* height: 80vh; */
-    /* border: 2px solid green;      */
-}
 .values1{
-    /* background-color: rgb(220,220,220); */
-    height: 30vh;
-    /* flex-direction: row; */
-
+    height: 27vh;
+    border: 1px solid red;
+    /* background-color: rgb(250, 250, 250); */
+}
+.mpty{
+    background-color: rgb(250, 250, 250);
+    height: 10vh;
 }
 .valuebox{
     display: flex;
-    margin-top: 
 }
 .peace{
     border: 0.1px solid lightgray;
