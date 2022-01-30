@@ -338,3 +338,13 @@
 .premium ul li{
     margin-bottom: 10%;
 }
+.branches{
+    height: 100vh;
+    background-color: #252B42;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.wds{
+    margin: 10%;
+}
