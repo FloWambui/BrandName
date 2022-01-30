@@ -147,6 +147,7 @@
 }
 .industry{
     background: rgb(250, 250, 250);
+    height: 100%;
 }
 .wrds{
     text-align: center;
@@ -250,5 +251,90 @@
 }
 .plans{
     display: flex;
-    
+    margin-left: 1%;
+    /* justify-content: space-evenly; */
+    padding: 10px;
+    margin-left: 25%;
+
+}
+.free{
+    text-align: center;
+    border: 2px solid rgb(27, 150, 238);
+    border-radius: 10px;
+    height: 15cm;
+    width: 8cm;
+    justify-content: space-evenly;
+}
+#FREE{
+    margin: 30px;
+}
+.free ul{
+    list-style: none;
+    padding: 10%;
+    margin: 3px;
+    text-align: justify;
+
+}
+.free ul li{
+    margin-bottom: 10%;
+}
+.blue{
+    color: rgb(27, 150, 238);
+    font-size: larger;
+    font-size: 2em;
+    margin-bottom: 10%;
+}
+#price-bttn{
+    color: white;
+    background-color: #3FA7F0;
+    margin-left: -10%;
+    height: 1cm;
+    width: 6cm;
+    border-radius: 4%;
+    border: 1px;
+}
+.standard{
+    text-align: center;
+    border: 2px solid rgb(27, 150, 238);
+    border-radius: 10px;
+    height: 16cm;
+    width: 8cm;
+    justify-content: space-evenly;
+    margin-top: -2.5%;
+    color: white;
+    background-color: #252B42;
+}
+#standard{
+    margin: 30px;
+}
+.standard ul{
+    list-style: none;
+    padding: 10%;
+    margin: 3px;
+    text-align: justify;
+
+}
+.standard ul li{
+    margin-bottom: 10%;
+}
+.premium{
+    text-align: center;
+    border: 2px solid rgb(27, 150, 238);
+    border-radius: 10px;
+    height: 15cm;
+    width: 8cm;
+    justify-content: space-evenly;
+}
+#premium{
+    margin: 30px;
+}
+.premium ul{
+    list-style: none;
+    padding: 10%;
+    margin: 3px;
+    text-align: justify;
+
+}
+.premium ul li{
+    margin-bottom: 10%;
 }
