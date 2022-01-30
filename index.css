@@ -88,3 +88,39 @@
     width: 180px;
     height: 50px;
 }
+.values{
+    /* height: 80vh; */
+    border: 2px solid green;     
+}
+.values1{
+    /* background-color: rgb(220,220,220); */
+    height: 30vh;
+    /* flex-direction: row; */
+
+}
+.valuebox{
+    display: flex;
+    margin-top: 
+}
+.peace{
+    border: 0.1px solid lightgray;
+    height: 180px;
+    width: 300px;
+    margin: 0% 20% 20% 20%;
+    text-align: start;
+    background-color: white;
+    color: black;
+    padding-left: 50px;
+    opacity: 10;
+        
+}
+.life{
+    border: 1px solid blue;
+    height: 200px;
+    width: 400px;
+}
+.satisfy{
+    border: 1px solid blue;
+    height: 200px;
+    width: 400px;
+}
