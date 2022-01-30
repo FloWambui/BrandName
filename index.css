@@ -12,9 +12,11 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    width: 212vh;
     opacity: 0.9;
     color: white;
-    font-size: large;    
+    font-size: large; 
+    font-size: 1em;   
 }
 .navbar{
     display: flex;
@@ -24,10 +26,41 @@
     justify-content: start;
     margin-left: 200px;
     font-weight: bold;
+    font-size: 2em;
 }
 .navbar ul{
     display:flex;
     list-style: none;
+    margin-left: 50px;
+    margin-top: 10px;   
+}
+.navbar ul li{
+    margin: 5px;
+}
+#log{
+    margin-left: 800px;
+}
+#btn{
+    background-color: #3FA7F1;
     margin-left: 100px;
-    justify-content: ;
+    border-radius: 8px;
+    width: 15%;
+    color: white;
+    font-weight: bold;
+
+}
+.intro{
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+    margin-top: 130px;
+    font-size: 30px;
+    padding-left: 10%;
+}
+.welcomenote h1{
+    font-size: 250%;
+    font-weight: 200%;
+}
+.btt{
+    padding: 15px
 }
