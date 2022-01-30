@@ -198,3 +198,12 @@
 .checked{
     color: orange;
 }
+.host ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+#host{
+    height: 60px;
+    width: 100px;
+}
