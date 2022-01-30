@@ -360,3 +360,32 @@
     margin: 10%;
    
 }
+.appoint{
+    display: flex;
+}
+#contact{
+    height: 17cm;
+}
+.contactform{
+    height: 17cm;
+    width: 15cm;
+    border: 1px solid red;
+    padding: 5%;
+
+}
+.contactform h1{
+    margin-top: -70px;
+    text-align: center;
+}
+.contactform ul li{
+    list-style: none;
+    padding: 15px;
+    justify-content: space-evenly;
+    text-align: start;
+}
+#contact-info{
+    padding: 15px;
+    height: 1.5cm;
+    width: 10cm;
+    margin-left: 4%;
+}
